@@ -6,4 +6,4 @@ I usually code in R, STATA, and LaTex.
 
 The best way to reach me is by email at: patrick_rhatigan@brown.edu
 
-And if you are interested in learning more about me you can check out my [LinkedIn](www.linkedin.com/in/patrick-a-rhatigan) and [Resume](
+And if you are interested in learning more about me you can check out my [LinkedIn](www.linkedin.com/in/patrick-a-rhatigan) and [Resume](https://github.com/patrick-rhatigan/patrick-rhatigan/blob/main/Resume.pdf)
